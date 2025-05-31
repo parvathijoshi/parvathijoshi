@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I think Git puns make the best captions 😎
 
 <!-- GitHub Stats (optional) -->
-![Parvathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![Parvathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parvathijoshi&show_icons=true&hide_title=true)
 
 <!-- Language stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parvathijoshi&layout=compact)
