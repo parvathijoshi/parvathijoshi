@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Parvathi
 
-<!--
-**parvathijoshi/parvathijoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🎓 MAC Student @ UWin | 🛠️ Building cool stuff
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Slack bot for internal dev workflows
+- 🌱 Learning FastAPI, Apigee, and React
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link), [Email](mailto:your@email.com)
+- ⚡ Fun fact: I think Git puns make the best captions 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats (optional) -->
+![Parvathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+
+<!-- Language stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
